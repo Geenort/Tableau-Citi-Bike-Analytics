@@ -1,5 +1,8 @@
 # Tableau Assignment - Citi Bike Analytics
 
+Link to the Tableau Public workbook: 
+https://public.tableau.com/views/CitiBikeAnalysis_15639388113870/ANYCStory-CitiBikeAnalytics?:embed=y&:display_count=yes&:origin=viz_share_link
+
 ## Background
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
